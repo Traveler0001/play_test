@@ -1,0 +1,77 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\biubiubiu\Desktop\超声波测距资料(HC-SR04)_信泰微电子\超声波测距资料(HC-SR04)_TB\超声波测距数码管显示\脉宽测量.uvproj
+Project File Date:  06/18/2020
+
+<h2>Output:</h2>
+compiling 脉宽测量.c...
+脉宽测量.C(35): error C129: missing ';' before 'Trig'
+脉宽测量.c - 1 Error(s), 0 Warning(s).
+compiling 脉宽测量.c...
+脉宽测量.C(35): error C141: syntax error near ';'
+脉宽测量.C(35): error C129: missing ';' before 'Trig'
+脉宽测量.c - 2 Error(s), 0 Warning(s).
+compiling 脉宽测量.c...
+脉宽测量.C(35): error C129: missing ';' before 'Trig'
+脉宽测量.c - 1 Error(s), 0 Warning(s).
+compiling 脉宽测量.c...
+脉宽测量.C(35): error C129: missing ';' before 'Trig'
+脉宽测量.c - 1 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling 脉宽测量.c...
+脉宽测量.C(34): error C129: missing ';' before 'Trig'
+目标未创建
+compiling 脉宽测量.c...
+脉宽测量.C(33): error C129: missing ';' before 'Trig'
+脉宽测量.c - 1 Error(s), 0 Warning(s).
+compiling 脉宽测量.c...
+脉宽测量.C(33): error C129: missing ';' before 'Trig'
+脉宽测量.c - 1 Error(s), 0 Warning(s).
+compiling 脉宽测量.c...
+脉宽测量.C(33): error C129: missing ';' before 'Trig'
+脉宽测量.c - 1 Error(s), 0 Warning(s).
+compiling 脉宽测量.c...
+脉宽测量.C(33): error C129: missing ';' before 'Trig'
+脉宽测量.c - 1 Error(s), 0 Warning(s).
+compiling 脉宽测量.c...
+脉宽测量.C(31): error C129: missing ';' before 'Trig'
+脉宽测量.c - 1 Error(s), 0 Warning(s).
+compiling 脉宽测量.c...
+脉宽测量.C(96): error C202: 'flag': undefined identifier
+脉宽测量.C(98): error C202: 'flag': undefined identifier
+脉宽测量.C(137): error C202: 'flag': undefined identifier
+脉宽测量.C(157): error C202: 'flag': undefined identifier
+脉宽测量.c - 4 Error(s), 0 Warning(s).
+compiling 脉宽测量.c...
+脉宽测量.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L15: MULTIPLE CALL TO SEGMENT
+    SEGMENT: ?PR?__DELAYMICROSECONDS?_隹聿_量
+    CALLER1: ?PR?ZD0?_隹聿_量
+    CALLER2: ?PR?DS1?_隹聿_量
+*** WARNING L15: MULTIPLE CALL TO SEGMENT
+    SEGMENT: ?PR?__DELAYMICROSECONDS?_隹聿_量
+    CALLER1: ?PR?DS1?_隹聿_量
+    CALLER2: ?C_C51STARTUP
+Program Size: data=17.1 xdata=0 code=550
+creating hex file from "脉宽测量"...
+"脉宽测量" - 0 Error(s), 2 Warning(s).
+compiling 脉宽测量.c...
+脉宽测量.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+*** WARNING L15: MULTIPLE CALL TO SEGMENT
+    SEGMENT: ?PR?__DELAYMICROSECONDS?_隹聿_量
+    CALLER1: ?PR?ZD0?_隹聿_量
+    CALLER2: ?PR?DS1?_隹聿_量
+*** WARNING L15: MULTIPLE CALL TO SEGMENT
+    SEGMENT: ?PR?__DELAYMICROSECONDS?_隹聿_量
+    CALLER1: ?PR?DS1?_隹聿_量
+    CALLER2: ?C_C51STARTUP
+Program Size: data=17.1 xdata=0 code=546
+creating hex file from "脉宽测量"...
+"脉宽测量" - 0 Error(s), 2 Warning(s).
